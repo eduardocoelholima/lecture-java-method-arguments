@@ -18,4 +18,4 @@ Here you can find the materials for the lecture on argument passing in java.
 Please let me know if you have any questions.
 
 Cheers,
-eduardo.lima at mail.rit.edu
+lima at cs.rit.edu
